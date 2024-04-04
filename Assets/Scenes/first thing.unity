@@ -1796,6 +1796,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Enemigo volador prefab '
       objectReference: {fileID: 0}
+    - target: {fileID: 5175665248176921402, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
+      propertyPath: spawnObject
+      value: 
+      objectReference: {fileID: 8222891166589705645, guid: c0064072f02af9e49aaa5d45872fa383, type: 3}
+    - target: {fileID: 6609625110995508396, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
+      propertyPath: onHit.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: fly hit
+      objectReference: {fileID: 0}
     - target: {fileID: 7464653692816602012, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
       propertyPath: m_Controller
       value: 
@@ -4597,6 +4605,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemigo volador prefab  (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6609625110995508396, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
+      propertyPath: onHit.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: fly hit
+      objectReference: {fileID: 0}
     - target: {fileID: 7464653692816602012, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
       propertyPath: m_Controller
       value: 
@@ -4964,6 +4976,10 @@ PrefabInstance:
     - target: {fileID: 2562814398077622582, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
       propertyPath: m_Name
       value: Enemigo volador prefab  (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609625110995508396, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
+      propertyPath: onHit.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: fly hit
       objectReference: {fileID: 0}
     - target: {fileID: 7464653692816602012, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
       propertyPath: m_Controller
