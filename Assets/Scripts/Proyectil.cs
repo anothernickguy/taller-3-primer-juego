@@ -12,10 +12,12 @@ public class Proyectil : MonoBehaviour
 
     Vector3 posicionAnterior;
     SonidosGameObject sonidosGO;
+    ComboSystem comboSystem; // Referencia al sistema de combos
 
     private void Awake()
     {
         sonidosGO = GetComponent<SonidosGameObject>();
+        comboSystem = FindObjectOfType<ComboSystem>(); // Encontrar el ComboSystem en la escena
     }
 
     IEnumerator Start()
@@ -33,10 +35,14 @@ public class Proyectil : MonoBehaviour
 
         hit = Physics2D.Raycast(transform.position, direccion.normalized, direccion.magnitude);
 
-        if(hit.collider != null)
+        if (hit.collider != null)
         {
             if (hit.transform.GetComponent<Damagable>() != null)
+            {
                 hit.transform.GetComponent<Damagable>().TakeDamage(damage);
+                if (comboSystem != null)
+                    comboSystem.IncreaseCombo(); // Incrementar el combo solo cuando golpea un enemigo
+            }
 
             if (impactPrefab)
                 Instantiate(impactPrefab, hit.point, Quaternion.identity);
@@ -44,18 +50,10 @@ public class Proyectil : MonoBehaviour
             sonidosGO.ReproducirSonido();
             Destroy(gameObject);
         }
-
-        
-
-        //transform.Translate(transform.right * velocidadBala * Time.deltaTime, Space.World);
     }
 
     private void FixedUpdate()
     {
         rb2d.velocity = transform.right * velocidadBala;
     }
-
-
-
-
 }
