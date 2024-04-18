@@ -6,14 +6,13 @@ public class ControlesPlayer : MonoBehaviour
 {
     //Public
     public bool puedeDisparar, puedeMoverse, puedeSaltar;
-    public KeyCode botonDisparo, botonSalto, botonDash;
+    public KeyCode botonDisparo, botonSalto;
     public LayerMask layerPiso;
 
     public DatosSalto datosSalto;
     public Animator anim;
 
     public float velocidadMovimiento;
-    public float velocidadDash;
     public AudioClip sonidoSalto, sonidoAterrizaje;
     public LibreriaDeSonidos sonidosPasos;
 
@@ -32,7 +31,6 @@ public class ControlesPlayer : MonoBehaviour
 
     bool checkCayendo;
     bool saltando;
-    bool dashing;
 
     private void Awake()
     {
@@ -53,7 +51,6 @@ public class ControlesPlayer : MonoBehaviour
         Saltar();
         Moverse();
         Disparar();
-        Dash();
         DatosAnimator();
     }
 
@@ -91,23 +88,6 @@ public class ControlesPlayer : MonoBehaviour
             anim.Play(AnimacionesPlayer.disparar, 1, 0);
             rb2d.AddForce(-transform.right * 10, ForceMode2D.Impulse);
         }
-    }
-
-    void Dash()
-    {
-        if (dashing || !puedeMoverse || !Input.GetKeyDown(botonDash) || grounded) return;
-
-        // Aquí puedes agregar cualquier lógica específica para el dash en el aire
-        rb2d.velocity += new Vector2(transform.localScale.x * velocidadDash, 0);
-
-        dashing = true;
-        StartCoroutine(StopDash());
-    }
-
-    IEnumerator StopDash()
-    {
-        yield return new WaitForSeconds(0.1f);
-        dashing = false;
     }
 
     void Moverse()
