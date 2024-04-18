@@ -87,6 +87,8 @@ public class ControlesPlayer : MonoBehaviour
             disparar.Shoot();
             anim.Play(AnimacionesPlayer.disparar, 1, 0);
             rb2d.AddForce(-transform.right * 10, ForceMode2D.Impulse);
+
+            Debug.Log("FIRE");
         }
     }
 
