@@ -285,7 +285,7 @@ GameObject:
   - component: {fileID: 12381576}
   - component: {fileID: 12381575}
   - component: {fileID: 12381574}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (78)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -729,7 +729,7 @@ GameObject:
   - component: {fileID: 28293303}
   - component: {fileID: 28293302}
   - component: {fileID: 28293301}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (69)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -1271,7 +1271,7 @@ GameObject:
   - component: {fileID: 46936246}
   - component: {fileID: 46936245}
   - component: {fileID: 46936247}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (20)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -2876,7 +2876,7 @@ GameObject:
   - component: {fileID: 108343349}
   - component: {fileID: 108343351}
   - component: {fileID: 108343350}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (55)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -3174,7 +3174,7 @@ GameObject:
   - component: {fileID: 116555721}
   - component: {fileID: 116555723}
   - component: {fileID: 116555722}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (72)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -3304,7 +3304,7 @@ GameObject:
   - component: {fileID: 119582817}
   - component: {fileID: 119582819}
   - component: {fileID: 119582818}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (61)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -3640,7 +3640,7 @@ GameObject:
   - component: {fileID: 122449959}
   - component: {fileID: 122449958}
   - component: {fileID: 122449957}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (86)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -4064,7 +4064,7 @@ GameObject:
   - component: {fileID: 141292715}
   - component: {fileID: 141292717}
   - component: {fileID: 141292716}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (39)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -4628,7 +4628,7 @@ GameObject:
   - component: {fileID: 193845454}
   - component: {fileID: 193845453}
   - component: {fileID: 193845452}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (93)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -4816,7 +4816,7 @@ GameObject:
   - component: {fileID: 195723694}
   - component: {fileID: 195723693}
   - component: {fileID: 195723695}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (18)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -6065,7 +6065,7 @@ GameObject:
   - component: {fileID: 245432499}
   - component: {fileID: 245432498}
   - component: {fileID: 245432497}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (44)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -7642,7 +7642,7 @@ GameObject:
   - component: {fileID: 322712861}
   - component: {fileID: 322712860}
   - component: {fileID: 322712859}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (47)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -7854,7 +7854,7 @@ GameObject:
   - component: {fileID: 342877152}
   - component: {fileID: 342877151}
   - component: {fileID: 342877150}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (36)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -8004,7 +8004,7 @@ GameObject:
   - component: {fileID: 348110442}
   - component: {fileID: 348110441}
   - component: {fileID: 348110440}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (94)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -8153,7 +8153,7 @@ GameObject:
   - component: {fileID: 351644454}
   - component: {fileID: 351644456}
   - component: {fileID: 351644455}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (16)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -8744,7 +8744,7 @@ GameObject:
   - component: {fileID: 378979877}
   - component: {fileID: 378979876}
   - component: {fileID: 378979878}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (6)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -9304,7 +9304,7 @@ GameObject:
   - component: {fileID: 407824121}
   - component: {fileID: 407824123}
   - component: {fileID: 407824122}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (33)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -9844,7 +9844,7 @@ GameObject:
   - component: {fileID: 448181499}
   - component: {fileID: 448181501}
   - component: {fileID: 448181500}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (31)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -10815,7 +10815,7 @@ GameObject:
   - component: {fileID: 479843251}
   - component: {fileID: 479843253}
   - component: {fileID: 479843252}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (64)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -11264,7 +11264,7 @@ GameObject:
   - component: {fileID: 493974198}
   - component: {fileID: 493974200}
   - component: {fileID: 493974199}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (11)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -11934,7 +11934,7 @@ GameObject:
   - component: {fileID: 507311989}
   - component: {fileID: 507311991}
   - component: {fileID: 507311990}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (49)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -12064,7 +12064,7 @@ GameObject:
   - component: {fileID: 507924930}
   - component: {fileID: 507924932}
   - component: {fileID: 507924931}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (3)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -12674,7 +12674,7 @@ GameObject:
   - component: {fileID: 518940187}
   - component: {fileID: 518940189}
   - component: {fileID: 518940190}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (2)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -13264,7 +13264,7 @@ GameObject:
   - component: {fileID: 554545904}
   - component: {fileID: 554545903}
   - component: {fileID: 554545902}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (45)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -14586,7 +14586,7 @@ GameObject:
   - component: {fileID: 600332871}
   - component: {fileID: 600332873}
   - component: {fileID: 600332872}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (24)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -15126,7 +15126,7 @@ GameObject:
   - component: {fileID: 611129284}
   - component: {fileID: 611129286}
   - component: {fileID: 611129285}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (57)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -16843,7 +16843,7 @@ GameObject:
   - component: {fileID: 697937890}
   - component: {fileID: 697937889}
   - component: {fileID: 697937888}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (51)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -17727,7 +17727,7 @@ GameObject:
   - component: {fileID: 733747481}
   - component: {fileID: 733747480}
   - component: {fileID: 733747479}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (43)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -18147,7 +18147,7 @@ GameObject:
   - component: {fileID: 766528595}
   - component: {fileID: 766528594}
   - component: {fileID: 766528593}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (25)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -18297,7 +18297,7 @@ GameObject:
   - component: {fileID: 767121650}
   - component: {fileID: 767121649}
   - component: {fileID: 767121648}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (95)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -19202,7 +19202,7 @@ GameObject:
   - component: {fileID: 814655570}
   - component: {fileID: 814655572}
   - component: {fileID: 814655571}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (58)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -20701,7 +20701,7 @@ GameObject:
   - component: {fileID: 881691957}
   - component: {fileID: 881691959}
   - component: {fileID: 881691958}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (23)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -20832,7 +20832,7 @@ GameObject:
   - component: {fileID: 885108647}
   - component: {fileID: 885108646}
   - component: {fileID: 885108645}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (42)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -21728,7 +21728,7 @@ GameObject:
   - component: {fileID: 908350262}
   - component: {fileID: 908350261}
   - component: {fileID: 908350260}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (85)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -22743,7 +22743,7 @@ GameObject:
   - component: {fileID: 927989820}
   - component: {fileID: 927989822}
   - component: {fileID: 927989821}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (8)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -23608,7 +23608,7 @@ GameObject:
   - component: {fileID: 963484463}
   - component: {fileID: 963484466}
   - component: {fileID: 963484464}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (26)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -23860,7 +23860,7 @@ GameObject:
   - component: {fileID: 973814755}
   - component: {fileID: 973814754}
   - component: {fileID: 973814753}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (38)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -24010,7 +24010,7 @@ GameObject:
   - component: {fileID: 975128630}
   - component: {fileID: 975128629}
   - component: {fileID: 975128628}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (70)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -25533,7 +25533,7 @@ GameObject:
   - component: {fileID: 1038181858}
   - component: {fileID: 1038181857}
   - component: {fileID: 1038181856}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (66)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -25682,7 +25682,7 @@ GameObject:
   - component: {fileID: 1039761328}
   - component: {fileID: 1039761330}
   - component: {fileID: 1039761329}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (29)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -25812,7 +25812,7 @@ GameObject:
   - component: {fileID: 1039874592}
   - component: {fileID: 1039874594}
   - component: {fileID: 1039874593}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (28)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -26083,7 +26083,7 @@ GameObject:
   - component: {fileID: 1047315423}
   - component: {fileID: 1047315422}
   - component: {fileID: 1047315421}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (117)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -27576,7 +27576,7 @@ GameObject:
   - component: {fileID: 1102808938}
   - component: {fileID: 1102808937}
   - component: {fileID: 1102808936}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (48)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -27726,7 +27726,7 @@ GameObject:
   - component: {fileID: 1106721013}
   - component: {fileID: 1106721012}
   - component: {fileID: 1106721011}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (65)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -29071,7 +29071,7 @@ GameObject:
   - component: {fileID: 1200182896}
   - component: {fileID: 1200182898}
   - component: {fileID: 1200182897}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (40)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -29512,7 +29512,7 @@ GameObject:
   - component: {fileID: 1220784910}
   - component: {fileID: 1220784912}
   - component: {fileID: 1220784911}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (74)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -29642,7 +29642,7 @@ GameObject:
   - component: {fileID: 1226264824}
   - component: {fileID: 1226264826}
   - component: {fileID: 1226264825}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (63)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -30423,7 +30423,7 @@ GameObject:
   - component: {fileID: 1255806330}
   - component: {fileID: 1255806332}
   - component: {fileID: 1255806331}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (75)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -31030,7 +31030,7 @@ GameObject:
   - component: {fileID: 1298410510}
   - component: {fileID: 1298410509}
   - component: {fileID: 1298410508}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (46)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -31409,7 +31409,7 @@ GameObject:
   - component: {fileID: 1317426055}
   - component: {fileID: 1317426054}
   - component: {fileID: 1317426053}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (35)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -31643,7 +31643,7 @@ GameObject:
   - component: {fileID: 1319924788}
   - component: {fileID: 1319924787}
   - component: {fileID: 1319924786}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (115)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -32547,7 +32547,7 @@ GameObject:
   - component: {fileID: 1365233291}
   - component: {fileID: 1365233290}
   - component: {fileID: 1365233289}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (71)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -33307,7 +33307,7 @@ GameObject:
   - component: {fileID: 1390992155}
   - component: {fileID: 1390992154}
   - component: {fileID: 1390992153}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (41)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -33457,7 +33457,7 @@ GameObject:
   - component: {fileID: 1392196521}
   - component: {fileID: 1392196520}
   - component: {fileID: 1392196519}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (68)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -35006,7 +35006,7 @@ GameObject:
   - component: {fileID: 1470010983}
   - component: {fileID: 1470010985}
   - component: {fileID: 1470010984}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (32)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -35239,7 +35239,7 @@ GameObject:
   - component: {fileID: 1478893338}
   - component: {fileID: 1478893337}
   - component: {fileID: 1478893336}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (53)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -35388,7 +35388,7 @@ GameObject:
   - component: {fileID: 1486607801}
   - component: {fileID: 1486607803}
   - component: {fileID: 1486607802}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (54)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -36176,7 +36176,7 @@ GameObject:
   - component: {fileID: 1518716138}
   - component: {fileID: 1518716137}
   - component: {fileID: 1518716139}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (1)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -36391,7 +36391,7 @@ GameObject:
   - component: {fileID: 1523171628}
   - component: {fileID: 1523171627}
   - component: {fileID: 1523171626}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (77)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -37419,7 +37419,7 @@ GameObject:
   - component: {fileID: 1579053959}
   - component: {fileID: 1579053958}
   - component: {fileID: 1579053957}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (116)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -37899,7 +37899,7 @@ GameObject:
   - component: {fileID: 1590716222}
   - component: {fileID: 1590716221}
   - component: {fileID: 1590716223}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (7)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -38335,7 +38335,7 @@ GameObject:
   - component: {fileID: 1596851792}
   - component: {fileID: 1596851794}
   - component: {fileID: 1596851793}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (30)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -38906,7 +38906,7 @@ GameObject:
   - component: {fileID: 1619423628}
   - component: {fileID: 1619423630}
   - component: {fileID: 1619423629}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (62)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -39070,7 +39070,7 @@ GameObject:
   - component: {fileID: 1631645114}
   - component: {fileID: 1631645113}
   - component: {fileID: 1631645116}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (9)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -39212,158 +39212,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!1 &1632274564
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1632274565}
-  - component: {fileID: 1632274568}
-  - component: {fileID: 1632274567}
-  - component: {fileID: 1632274566}
-  m_Layer: 0
-  m_Name: door
-  m_TagString: Piso
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!4 &1632274565
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1632274564}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 44.9524, y: 17.05, z: 0.275327}
-  m_LocalScale: {x: 1.2193439, y: 14.999759, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2109636899}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1632274566
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1632274564}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a6ee6c4986ecd3343bf6c69f9e67c0d3, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!61 &1632274567
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1632274564}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
---- !u!212 &1632274568
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1632274564}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: -1
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.2264151, g: 0.2264151, b: 0.2264151, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
 --- !u!1001 &1647718384
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39576,7 +39424,7 @@ GameObject:
   - component: {fileID: 1648982286}
   - component: {fileID: 1648982288}
   - component: {fileID: 1648982287}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (13)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -39875,7 +39723,7 @@ GameObject:
   - component: {fileID: 1660888695}
   - component: {fileID: 1660888694}
   - component: {fileID: 1660888693}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (83)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -40955,7 +40803,7 @@ GameObject:
   - component: {fileID: 1682410517}
   - component: {fileID: 1682410516}
   - component: {fileID: 1682410515}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (79)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -43022,7 +42870,7 @@ GameObject:
   - component: {fileID: 1782076333}
   - component: {fileID: 1782076332}
   - component: {fileID: 1782076334}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -43243,136 +43091,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!1 &1799852161
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1799852162}
-  - component: {fileID: 1799852164}
-  - component: {fileID: 1799852163}
-  m_Layer: 0
-  m_Name: Square (22)
-  m_TagString: Piso
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!4 &1799852162
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1799852161}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 64.2237, y: 14.91, z: 0.27532697}
-  m_LocalScale: {x: 1.5942713, y: 14.999759, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2109636899}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &1799852163
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1799852161}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
---- !u!212 &1799852164
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1799852161}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: -1
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.16037738, g: 0.16037738, b: 0.16037738, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
 --- !u!1001 &1802396859
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43507,7 +43225,7 @@ GameObject:
   - component: {fileID: 1815532332}
   - component: {fileID: 1815532331}
   - component: {fileID: 1815532330}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (81)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -43876,7 +43594,7 @@ GameObject:
   - component: {fileID: 1835301727}
   - component: {fileID: 1835301726}
   - component: {fileID: 1835301725}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (84)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -45348,7 +45066,7 @@ GameObject:
   - component: {fileID: 1890548889}
   - component: {fileID: 1890548891}
   - component: {fileID: 1890548890}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (60)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -46054,7 +45772,7 @@ GameObject:
   - component: {fileID: 1920610970}
   - component: {fileID: 1920610972}
   - component: {fileID: 1920610971}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (59)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -46782,7 +46500,7 @@ GameObject:
   - component: {fileID: 1934920270}
   - component: {fileID: 1934920272}
   - component: {fileID: 1934920271}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (34)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -47085,7 +46803,7 @@ GameObject:
   - component: {fileID: 1960497766}
   - component: {fileID: 1960497765}
   - component: {fileID: 1960497764}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (52)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -47807,7 +47525,7 @@ GameObject:
   - component: {fileID: 1980401677}
   - component: {fileID: 1980401679}
   - component: {fileID: 1980401678}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (50)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -47971,7 +47689,7 @@ GameObject:
   - component: {fileID: 1986260665}
   - component: {fileID: 1986260664}
   - component: {fileID: 1986260666}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (19)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -48182,7 +47900,7 @@ GameObject:
   - component: {fileID: 1990794071}
   - component: {fileID: 1990794073}
   - component: {fileID: 1990794072}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (27)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -48463,7 +48181,7 @@ GameObject:
   - component: {fileID: 2002732248}
   - component: {fileID: 2002732247}
   - component: {fileID: 2002732249}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (17)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -48613,7 +48331,7 @@ GameObject:
   - component: {fileID: 2005244543}
   - component: {fileID: 2005244542}
   - component: {fileID: 2005244541}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (80)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -48762,7 +48480,7 @@ GameObject:
   - component: {fileID: 2009116645}
   - component: {fileID: 2009116647}
   - component: {fileID: 2009116646}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (56)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -48950,7 +48668,7 @@ GameObject:
   - component: {fileID: 2018789394}
   - component: {fileID: 2018789393}
   - component: {fileID: 2018789392}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (87)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -49165,7 +48883,7 @@ GameObject:
   - component: {fileID: 2031930652}
   - component: {fileID: 2031930654}
   - component: {fileID: 2031930653}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (21)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -49778,7 +49496,7 @@ GameObject:
   - component: {fileID: 2058650081}
   - component: {fileID: 2058650080}
   - component: {fileID: 2058650079}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (37)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -50337,7 +50055,7 @@ GameObject:
   - component: {fileID: 2065919629}
   - component: {fileID: 2065919628}
   - component: {fileID: 2065919630}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (5)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -50564,7 +50282,7 @@ GameObject:
   - component: {fileID: 2068314432}
   - component: {fileID: 2068314431}
   - component: {fileID: 2068314433}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (4)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -50935,7 +50653,7 @@ GameObject:
   - component: {fileID: 2097869140}
   - component: {fileID: 2097869142}
   - component: {fileID: 2097869141}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (15)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -51066,7 +50784,7 @@ GameObject:
   - component: {fileID: 2098875465}
   - component: {fileID: 2098875464}
   - component: {fileID: 2098875466}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (12)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -51216,7 +50934,7 @@ GameObject:
   - component: {fileID: 2100089564}
   - component: {fileID: 2100089563}
   - component: {fileID: 2100089566}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (10)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -51514,10 +51232,8 @@ Transform:
   - {fileID: 1934920270}
   - {fileID: 881691957}
   - {fileID: 2097869140}
-  - {fileID: 1632274565}
   - {fileID: 2031930652}
   - {fileID: 351644454}
-  - {fileID: 1799852162}
   - {fileID: 2068314432}
   - {fileID: 1631645115}
   - {fileID: 2018789391}
@@ -51725,7 +51441,7 @@ GameObject:
   - component: {fileID: 2113928335}
   - component: {fileID: 2113928334}
   - component: {fileID: 2113928333}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (67)
   m_TagString: Piso
   m_Icon: {fileID: 0}
@@ -51958,7 +51674,7 @@ GameObject:
   - component: {fileID: 2126180447}
   - component: {fileID: 2126180449}
   - component: {fileID: 2126180448}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (73)
   m_TagString: Piso
   m_Icon: {fileID: 0}
