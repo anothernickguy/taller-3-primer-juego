@@ -4493,6 +4493,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6799894956732440245, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1429780441}
+    - target: {fileID: 6799894956732440245, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: GoToMainMenu
+      objectReference: {fileID: 0}
     - target: {fileID: 6799894957388706316, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
       propertyPath: m_Color.b
       value: 0
@@ -4516,6 +4524,22 @@ PrefabInstance:
     - target: {fileID: 6799894957516697039, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
       propertyPath: m_hasFontAssetChanged
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799894957600254302, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1429780441}
+    - target: {fileID: 6799894957600254302, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: QuitGamne
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799894957626133236, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1429780440}
+    - target: {fileID: 6799894957626133236, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6799894957670926892, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
       propertyPath: m_fontAsset
