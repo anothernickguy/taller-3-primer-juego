@@ -2652,6 +2652,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4720398844016383705, guid: 1b685f2fc99b44c4c9536a1be1f26487, type: 3}
+      propertyPath: hp
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7414,13 +7418,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Enemigo volador prefab '
       objectReference: {fileID: 0}
+    - target: {fileID: 6609625110995508396, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
+      propertyPath: hp
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
       propertyPath: m_LocalPosition.x
       value: 24.96
       objectReference: {fileID: 0}
     - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.07
+      value: -0.83
       objectReference: {fileID: 0}
     - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
       propertyPath: m_LocalPosition.z
