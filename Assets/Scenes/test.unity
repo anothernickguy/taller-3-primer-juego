@@ -4138,7 +4138,7 @@ Transform:
   m_GameObject: {fileID: 1213625806}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.3984778, y: 3.6040938, z: -0.018120296}
+  m_LocalPosition: {x: 3.23, y: 3.6040938, z: -0.018120296}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4647,7 +4647,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6799894957682091697, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6799894957682091725, guid: 4eb3d0a54d5090d4894f5b5bcc3c3a4a, type: 3}
       propertyPath: m_Pivot.x
@@ -7474,67 +7474,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &7235084005756827184
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2562814398077622582, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_Name
-      value: 'Enemigo volador prefab '
-      objectReference: {fileID: 0}
-    - target: {fileID: 6609625110995508396, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: hp
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 24.96
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.83
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8869268632733880048, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 622133e2a35345d498dd9fc620be26af, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -7549,7 +7488,6 @@ SceneRoots:
   - {fileID: 741854800}
   - {fileID: 513383451}
   - {fileID: 1827462079}
-  - {fileID: 7235084005756827184}
   - {fileID: 1455760228}
   - {fileID: 396516014}
   - {fileID: 1213625807}
