@@ -3,22 +3,31 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class ColitionSystem : MonoBehaviour
+public class CollisionSystem : MonoBehaviour
 {
-    public UnityEvent Onenter, Onstay, Onexit;
+    public UnityEvent OnEnter, OnStay, OnExit;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Onenter.Invoke();
+        if (collision.CompareTag("Player"))
+        {
+            OnEnter.Invoke();
+        }
     }
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        Onstay.Invoke();
+        if (collision.CompareTag("Player"))
+        {
+            OnStay.Invoke();
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        Onexit.Invoke();
+        if (collision.CompareTag("Player"))
+        {
+            OnExit.Invoke();
+        }
     }
 }
