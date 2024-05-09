@@ -7179,7 +7179,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5069852987975381505, guid: 976c0fd5621a66645a79c55bab5a87b4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 631.3015
+      value: 631.68
       objectReference: {fileID: 0}
     - target: {fileID: 5069852987975381505, guid: 976c0fd5621a66645a79c55bab5a87b4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -14849,7 +14849,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 1042377427265290966, guid: a97767412b0d75743b34c353e9513bbd, type: 3}
   shootPoint: {fileID: 491346566}
-  shootInterval: 1
+  shootInterval: 1.6
   bulletSpeed: 10
   bulletLifetime: 2
 --- !u!114 &476137351
@@ -21865,7 +21865,7 @@ Transform:
   m_GameObject: {fileID: 717762998}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 609.4, y: -178.73, z: -10}
+  m_LocalPosition: {x: -8, y: 28.470001, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -23719,7 +23719,7 @@ Transform:
   m_GameObject: {fileID: 785511748}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 609.4, y: -178.73, z: -10}
+  m_LocalPosition: {x: -8, y: 28.470001, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -64353,11 +64353,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7926116850167643969, guid: 44a68e71c652c054dac0dfa14d11a129, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 609.4
+      value: -8
       objectReference: {fileID: 0}
     - target: {fileID: 7926116850167643969, guid: 44a68e71c652c054dac0dfa14d11a129, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -179.5
+      value: 27.7
       objectReference: {fileID: 0}
     - target: {fileID: 7926116850167643969, guid: 44a68e71c652c054dac0dfa14d11a129, type: 3}
       propertyPath: m_LocalPosition.z
